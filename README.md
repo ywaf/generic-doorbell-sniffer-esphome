@@ -4,7 +4,7 @@ EspHome config to sniff the signal from this specific unbranded generic doorbell
 
 ![fum-Kqe-Qr-UN](https://github.com/Lehoooo/generic-doorbell-sniffer-esphome/assets/52742690/2bd8ed12-c952-45c9-89f1-14fcef44bff9)
 
-Used for integrating into Scrypted (HKSV fake doorbell)
+Used for integrating into Scrypted (HKSV fake doorbell), or notifications inside HomeAssistant
 
 # Usage
 
